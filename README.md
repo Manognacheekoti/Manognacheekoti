@@ -1,16 +1,60 @@
-## Hi there 👋
+<div align="center">
+<h1>Hey there, I'm Manogna Cheekoti! 👋</h1>
+<p>
+A passionate Software Engineer dedicated to building scalable backend systems and exploring the frontiers of technology.
+I thrive on solving complex challenges and am always eager to learn and implement cutting-edge solutions.
+</p>
+<p>
+🚀 Currently open to exciting new opportunities where I can make a significant impact!
+</p>
+</div>
 
-<!--
-**Manognacheekoti/Manognacheekoti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<h2>My Tech Arsenal 🛠️</h2>
+<p>Here are some of the technologies I love to work with:</p>
 
-Here are some ideas to get you started:
+<p>
+<!-- Programming Languages -->
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Java-007396%3Fstyle%3Dfor-the-badge%26logo%3Djava%26logoColor%3Dwhite" alt="Java"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" alt="Python"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack" alt="JavaScript"/>
+<br>
+<!-- Cloud & Infrastructure -->
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/AWS-232F3E%3Fstyle%3Dfor-the-badge%26logo%3Damazon-aws%26logoColor%3Dwhite" alt="AWS"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Apache%2520Kafka-231F20%3Fstyle%3Dfor-the-badge%26logo%3Dapache-kafka%26logoColor%3Dwhite" alt="Kafka"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Terraform-7B42BC%3Fstyle%3Dfor-the-badge%26logo%3Dterraform%26logoColor%3Dwhite" alt="Terraform"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Prometheus-E6522C%3Fstyle%3Dfor-the-badge%26logo%3Dprometheus%26logoColor%3Dwhite" alt="Prometheus"/>
+<br>
+<!-- Frontend & Web -->
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/HTML5-E34F26%3Fstyle%3Dfor-the-badge%26logo%3Dhtml5%26logoColor%3Dwhite" alt="HTML5"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/CSS3-1572B6%3Fstyle%3Dfor-the-badge%26logo%3Dcss3%26logoColor%3Dwhite" alt="CSS3"/>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/React-61DAFB%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3Dblack" alt="React"/>
+</p>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+<h2>Certifications 🏆</h2>
+<p>Committed to continuous growth and validated expertise:</p>
+<p>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/AWS%2520Certified-Developer%2520Associate-FF9900%3Fstyle%3Dfor-the-badge%26logo%3Damazon-aws%26logoColor%3Dwhite" alt="AWS Certified Developer - Associate"/>
+</p>
+</div>
+
+<div align="center">
+<h2>Let's Connect! 🌐</h2>
+<p>Feel free to reach out, collaborate, or just say hello!</p>
+<p>
+<a href="https://www.linkedin.com/in/manogna-cheekoti-103ab0157/" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/>
+</a>
+<!-- You can add your email here if you like -->
+<!-- <a href="mailto:your.email@example.com">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email"/>
+</a> -->
+</p>
+</div>
+
+<div align="center">
+<p>✨ Always learning, always building. ✨</p>
+</div>
