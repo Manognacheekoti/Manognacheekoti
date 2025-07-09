@@ -1,4 +1,5 @@
 <div align="center">
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/ManognaCheekoti/ManognaCheekoti/main/assets/wave.gif" width="40" align="left" alt="Waving Hand"/>
 <h1>Hey there, I'm Manogna Cheekoti! 👋</h1>
 <p>
 A passionate Software Engineer dedicated to building scalable backend systems and exploring the frontiers of technology.
@@ -38,6 +39,17 @@ I thrive on solving complex challenges and am always eager to learn and implemen
 <p>Committed to continuous growth and validated expertise:</p>
 <p>
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/AWS%2520Certified-Developer%2520Associate-FF9900%3Fstyle%3Dfor-the-badge%26logo%3Damazon-aws%26logoColor%3Dwhite" alt="AWS Certified Developer - Associate"/>
+</p>
+</div>
+
+<div align="center">
+<h2>GitHub Analytics 📊</h2>
+<p>A glimpse into my coding journey:</p>
+<p>
+<a href="https://www.google.com/search?q=https://github.com/ManognaCheekoti">
+<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DManognaCheekoti%26show_icons%3Dtrue%26theme%3Dalgolia%26include_all_commits%3Dtrue%26count_private%3Dtrue"/>
+<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DManognaCheekoti%26layout%3Dcompact%26langs_count%3D8%26theme%3Dalgolia"/>
+</a>
 </p>
 </div>
 
