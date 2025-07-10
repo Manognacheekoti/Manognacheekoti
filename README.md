@@ -21,19 +21,19 @@ Throughout my career, I've had the opportunity to work extensively with technolo
 <p>Here are some of the technologies I love to work with:</p>
 
 <p>
-<img src="https://img.shields.io/badge/Java-007396%3Fstyle%3Dfor-the-badge%26logo%3Djava%26logoColor%3Dwhite" alt="Java"/>
-<img src="https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" alt="Python"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack" alt="JavaScript"/>
+<img src="https://skillicons.dev/icons?i=java" alt="Java" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="40" height="40"/>
 <br>
-<img src="https://img.shields.io/badge/AWS-232F3E%3Fstyle%3Dfor-the-badge%26logo%3Damazon-aws%26logoColor%3Dwhite" alt="AWS"/>
-<img src="https://img.shields.io/badge/Apache%2520Kafka-231F20%3Fstyle%3Dfor-the-badge%26logo%3Dapache-kafka%26logoColor%3Dwhite" alt="Kafka"/>
-<img src="https://img.shields.io/badge/Terraform-7B42BC%3Fstyle%3Dfor-the-badge%26logo%3Dterraform%26logoColor%3Dwhite" alt="Terraform"/>
-<img src="https://img.shields.io/badge/Prometheus-E6522C%3Fstyle%3Dfor-the-badge%26logo%3Dprometheus%26logoColor%3Dwhite" alt="Prometheus"/>
+<img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=kafka" alt="Kafka" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=prometheus" alt="Prometheus" width="40" height="40"/>
 <br>
-<img src="https://img.shields.io/badge/HTML5-E34F26%3Fstyle%3Dfor-the-badge%26logo%3Dhtml5%26logoColor%3Dwhite" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6%3Fstyle%3Dfor-the-badge%26logo%3Dcss3%26logoColor%3Dwhite" alt="CSS3"/>
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
-<img src="https://img.shields.io/badge/React-61DAFB%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3Dblack" alt="React"/>
+<img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=angular" alt="Angular" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40"/>
 </p>
 </div>
 
@@ -41,7 +41,7 @@ Throughout my career, I've had the opportunity to work extensively with technolo
 <h2>Certifications 🏆</h2>
 <p>Committed to continuous growth and validated expertise:</p>
 <p>
-<img src="https://img.shields.io/badge/AWS%2520Certified-Developer%2520Associate-FF9900%3Fstyle%3Dfor-the-badge%26logo%3Damazon-aws%26logoColor%3Dwhite" alt="AWS Certified Developer - Associate"/>
+<img src="https://img.shields.io/badge/AWS%20Certified-Developer%20Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certified Developer - Associate"/>
 </p>
 </div>
 
@@ -50,8 +50,8 @@ Throughout my career, I've had the opportunity to work extensively with technolo
 <p>A glimpse into my coding journey:</p>
 <p>
 <a href="https://github.com/ManognaCheekoti">
-<img height="180em" src="https://github-readme-stats.vercel.app/api%3Fusername%3DManognaCheekoti%26show_icons%3Dtrue%26theme%3Dalgolia%26include_all_commits%3Dtrue%26count_private%3Dtrue"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DManognaCheekoti%26layout%3Dcompact%26langs_count%3D8%26theme%3Dalgolia"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ManognaCheekoti&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManognaCheekoti&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
