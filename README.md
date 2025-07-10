@@ -4,15 +4,18 @@
 
 
 <img src="https://raw.githubusercontent.com/ManognaCheekoti/ManognaCheekoti/main/assets/wave.gif" width="40" align="left" alt="Waving Hand"/>
-<h1>Hey there, I'm Manogna Cheekoti! 👋</h1>
-<p>
-A passionate Software Engineer with 3-4 years of experience dedicated to building scalable backend systems and exploring the frontiers of technology.
-I thrive on solving complex challenges and am always eager to learn and implement cutting-edge solutions.
+<div align="center" style="padding: 20px; background-color: #f8f8f8; border-radius: 10px; margin-bottom: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+
+<img src="https://raw.githubusercontent.com/ManognaCheekoti/ManognaCheekoti/main/assets/wave.gif" width="40" align="left" alt="Waving Hand" style="margin-right: 10px;"/>
+<h1 style="color: #2c3e50; font-size: 2.5em; margin-bottom: 10px;">Hey there, I'm Manogna Cheekoti! 👋</h1>
+
+<p style="font-size: 1.1em; color: #34495e; line-height: 1.6;">
+A passionate <strong style="color: #e74c3c;">Software Engineer</strong> with <span style="font-weight: bold;">3-4 years of experience</span> dedicated to building scalable backend systems and exploring the frontiers of technology. I thrive on solving complex challenges and am always eager to learn and implement cutting-edge solutions.
 </p>
-<p>
-Throughout my career, I've had the opportunity to work extensively with technologies like Java, Python, JavaScript, AWS, Kafka, Terraform, Prometheus, HTML, CSS, Angular, and React. My focus has been on designing and developing robust, high-performance, and resilient systems.
+<p style="font-size: 1.1em; color: #34495e; line-height: 1.6;">
+Throughout my career, I've had the opportunity to work extensively with technologies like <code style="background-color: #eee; padding: 3px 6px; border-radius: 4px; font-family: monospace;">Java</code>, <code style="background-color: #eee; padding: 3px 6px; border-radius: 4px; font-family: monospace;">Python</code>, <code style="background-color: #eee; padding: 3px 6px; border-radius: 4px; font-family: monospace;">JavaScript</code>, <code style="background-color: #eee; padding: 3px 6px; border-radius: 4px; font-family: monospace;">AWS</code>, <code style="background-color: #eee; padding: 3px 6px; border-radius: 4px; font-family: monospace;">Kafka</code>, <code style="background-color: #eee; padding: 3px 6px; border-radius: 4px; font-family: monospace;">Terraform</code>, <code style="background-color: #eee; padding: 3px 6px; border-radius: 4px; font-family: monospace;">Prometheus</code>, <code style="background-color: #eee; padding: 3px 6px; border-radius: 4px; font-family: monospace;">HTML</code>, <code style="background-color: #eee; padding: 3px 6px; border-radius: 4px; font-family: monospace;">CSS</code>, <code style="background-color: #eee; padding: 3px 6px; border-radius: 4px; font-family: monospace;">Angular</code>, and <code style="background-color: #eee; padding: 3px 6px; border-radius: 4px; font-family: monospace;">React</code>. My focus has been on designing and developing robust, high-performance, and resilient systems.
 </p>
-<p>
+<p style="font-size: 1.1em; color: #34495e; line-height: 1.6; font-weight: bold;">
 🚀 Currently open to exciting new opportunities where I can make a significant impact and continue to grow my expertise!
 </p>
 </div>
