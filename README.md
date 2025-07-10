@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ManognaCheekoti/ManognaCheekoti/main/assets/Gemini_Generated_Image_o8t0vio8t0vio8t0.jpg" alt="Manogna Cheekoti Banner" style="width:100%; max-width: 900px; border-radius: 10px; margin-bottom: 20px;"/>
+<img src="https://raw.githubusercontent.com/ManognaCheekoti/ManognaCheekoti/main/Gemini_Generated_Image_o8t0vio8t0vio8t0.png" alt="Manogna Cheekoti Banner" style="width:100%; max-width: 900px; border-radius: 10px; margin-bottom: 20px;"/>
+alt="Manogna Cheekoti Banner" style="width:100%; max-width: 900px; border-radius: 10px; margin-bottom: 20px;"/>
 
 <img src="https://raw.githubusercontent.com/ManognaCheekoti/ManognaCheekoti/main/assets/wave.gif" width="40" align="left" alt="Waving Hand"/>
 <h1>Hey there, I'm Manogna Cheekoti! 👋</h1>
