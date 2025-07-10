@@ -1,6 +1,8 @@
 <div align="center">
-<!-- Main Banner Image -->
+<!-- Main Banner Image - Ensure this image is in your 'assets' folder in your GitHub profile repo -->
 <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/ManognaCheekoti/ManognaCheekoti/main/assets/Gemini_Generated_Image_o8t0vio8t0vio8t0.jpg" alt="Manogna Cheekoti Banner" style="width:100%; max-width: 900px; border-radius: 10px; margin-bottom: 20px;"/>
+
+<!-- Waving Hand GIF - Ensure this image is in your 'assets' folder in your GitHub profile repo -->
 
 <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/ManognaCheekoti/ManognaCheekoti/main/assets/wave.gif" width="40" align="left" alt="Waving Hand"/>
 <h1>Hey there, I'm Manogna Cheekoti! 👋</h1>
